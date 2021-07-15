@@ -1,0 +1,8 @@
+productservice:
+  image: productserviceimage
+  ports:
+    - 8080:8080
+  links:
+    - mongodb2
+mongodb2:
+  image: mongo

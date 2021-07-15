@@ -1,0 +1,8 @@
+com/sample/service/product/EcomProductMicroserviceApplication.class
+com/sample/service/product/model/Product.class
+com/sample/service/product/repository/ProductCategoryRepository.class
+com/sample/service/product/repository/ProductRepository.class
+com/sample/service/product/controller/ProductRestController.class
+com/sample/service/product/InitializationComponent.class
+com/sample/service/product/model/ProductCategory.class
+com/sample/service/product/repository/ProductRepositoryConfiguration.class
